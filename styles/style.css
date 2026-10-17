@@ -29,8 +29,8 @@ body {
     border: 5px solid rgba(18, 85, 255, 0.808);
     border-left-color: transparent;
     border-top-color: transparent;
-    border-radius: 40%;
-    animation: rotate 0.1s linear infinite;
+    border-radius: 100%;
+    animation: rotate 0.5s linear infinite;
 }
 
 @keyframes rotate {to {transform: rotate(360deg);}
